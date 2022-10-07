@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Broken-Deer/Broken-Deer/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![GitHub Snake dark](https://raw.githubusercontent.com/Broken-Deer/Broken-Deer/main/assets/github-contribution-grid-snake.svg#gh-dark-mode-only)
