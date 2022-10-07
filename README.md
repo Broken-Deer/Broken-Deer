@@ -3,8 +3,7 @@
 
 ### 废物一头
 
-#### 
-最近更新：
+#### 最近更新：
 
 - [nonebot_plugin_btl_captcha](https://github.com/Broken-Deer/nonebot_plugin_btl_captcha)
 - [nonebot_plugin_ping_btlcraft](https://github.com/Broken-Deer/nonebot_plugin_ping_btlcraft)
