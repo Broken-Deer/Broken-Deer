@@ -15,4 +15,12 @@
 - [website](https://github.com/Broken-Deer/website)
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 34 mins
+
+Python       19 mins         ██████████████░░░░░░░░░░░   56.07 %
+Other        11 mins         ████████▒░░░░░░░░░░░░░░░░   33.14 %
+```
+
 <!--END_SECTION:waka-->
