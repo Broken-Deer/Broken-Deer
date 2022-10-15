@@ -3,9 +3,9 @@
 
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Broken-Deer/Broken-Deer/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://cdn.jsdelivr.net/gh/Broken-Deer/Broken-Deer/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![GitHub Snake dark](https://raw.githubusercontent.com/Broken-Deer/Broken-Deer/main/assets/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://cdn.jsdelivr.net/gh/Broken-Deer/Broken-Deer/assets/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
 #### 最近更新
