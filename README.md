@@ -12,8 +12,6 @@
 
 <!--START_SECTION:waka-->
 
-### 最近活动
-
 ```text
 Total Time: 34 mins
 
