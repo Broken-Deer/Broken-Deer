@@ -2,7 +2,7 @@
 
 ![GitHub Snake Light](https://cdn.jsdelivr.net/gh/Broken-Deer/Broken-Deer/assets/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Broken-Deer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broken-Deer)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 最近更新
 
