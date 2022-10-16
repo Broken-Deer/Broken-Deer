@@ -6,6 +6,8 @@
 
 ![Broken-Deer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broken-Deer&locale=cn&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broken-Deer&layout=compact&locale=cn&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Broken-Deer)](https://git.io/streak-stats)
+
 ![GitHub Snake Light](https://cdn.jsdelivr.net/gh/Broken-Deer/Broken-Deer/assets/github-contribution-grid-snake.svg)
 
 ## 最近更新
