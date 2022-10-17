@@ -11,7 +11,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Broken-Deer&theme=default&locale=cn&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Broken-Deer&theme=dark&hide_border=true&locale=cn)](https://git.io/streak-stats#gh-dark-mode-only)
 
-![GitHub Snake Light](https://cdn.jsdelivr.net/gh/Broken-Deer/Broken-Deer/assets/github-contribution-grid-snake.svg)
+![GitHub Snake](https://cdn.jsdelivr.net/gh/Broken-Deer/Broken-Deer/assets/github-contribution-grid-snake.svg)
 
 ## 最近更新
 
