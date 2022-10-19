@@ -16,11 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 4 mins
+Total Time: 7 hrs 50 mins
 
-Text         25 mins         ##########                  39.20 %
-Python       22 mins         #########                   34.82 %
-Other        12 mins         #####                       19.64 %
+Twig         1 hr 47 mins    ######                      22.80 %
+CSS          1 hr 37 mins    #####                       20.61 %
+Text         1 hr 26 mins    #####                       18.38 %
+JavaScript   1 hr 4 mins     ###                         13.72 %
+Other        41 mins         ##                          08.85 %
 ```
 
 <!--END_SECTION:waka-->
