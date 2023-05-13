@@ -1,7 +1,7 @@
 ## 置顶项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=website&theme=default&locale=cn)](https://github.com/Broken-Deer/website#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=default&locale=cn)](https://github.com/Broken-Deer/phpdbtools#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=website&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/website#gh-dark-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/phpdbtools#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher&theme=default&locale=cn)](https://github.com/Broken-Deer/website#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=default&locale=cn)](https://github.com/Broken-Deer/phpdbtools#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/website#gh-dark-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/phpdbtools#gh-dark-mode-only)
 
 ## 统计数据
 
@@ -26,11 +26,3 @@ Other                      22 hrs 9 mins   #                           04.35 %
 ```
 
 <!--END_SECTION:waka-->
-
-## 最近更新
-
-- [nonebot_plugin_ping_btlcraft](https://github.com/Broken-Deer/nonebot_plugin_ping_btlcraft)
-- [nonebot_plugin_btl_captcha](https://github.com/Broken-Deer/nonebot_plugin_btl_captcha)
-- [website](https://github.com/Broken-Deer/website)
-
-
