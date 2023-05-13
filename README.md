@@ -1,7 +1,7 @@
 ## 置顶项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher&theme=default&locale=cn)](https://github.com/Broken-Deer/website#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=default&locale=cn)](https://github.com/Broken-Deer/phpdbtools#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/website#gh-dark-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/phpdbtools#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher&theme=default&locale=cn)](https://github.com/Broken-Deer/magical-launcher#gh-light-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=phpdbtools&theme=default&locale=cn)](https://github.com/Broken-Deer/magical-launcher-core#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/magical-launcher#gh-dark-mode-only) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Broken-Deer&repo=magical-launcher-core&theme=dark&hide_border=true&locale=cn)](https://github.com/Broken-Deer/magical-launcher-core#gh-dark-mode-only)
 
 ## 统计数据
 
