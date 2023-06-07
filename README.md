@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 539 hrs 7 mins
+Total Time: 539 hrs 48 mins
 
-JavaScript                 258 hrs 54 mins ############                48.02 %
-HTML                       60 hrs 37 mins  ###                         11.25 %
-CSS                        52 hrs 8 mins   ##                          09.67 %
-PHP                        42 hrs 59 mins  ##                          07.97 %
-Other                      22 hrs 21 mins  #                           04.15 %
+JavaScript                 258 hrs 54 mins ############                47.96 %
+HTML                       60 hrs 37 mins  ###                         11.23 %
+CSS                        52 hrs 8 mins   ##                          09.66 %
+PHP                        42 hrs 59 mins  ##                          07.96 %
+Other                      22 hrs 21 mins  #                           04.14 %
 ```
 
 <!--END_SECTION:waka-->
