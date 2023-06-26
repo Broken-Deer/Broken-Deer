@@ -26,6 +26,6 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          author_name: a
-          author_email: b
+          author_name: Old-Smart-Driver
+          author_email: old_driver__@outlook.com
           message: 'Generate Contribution Snake'
