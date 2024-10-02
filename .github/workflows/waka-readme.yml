@@ -5,6 +5,7 @@ on:
       branches: [ main ]
   schedule:
     - cron: '0 8 * * *' # runs at every 8PM UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
